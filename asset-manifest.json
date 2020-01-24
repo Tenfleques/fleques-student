@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fleques-student/static/css/main.17b74ad8.chunk.css",
+    "main.js": "/fleques-student/static/js/main.392ffed0.chunk.js",
+    "main.js.map": "/fleques-student/static/js/main.392ffed0.chunk.js.map",
+    "runtime-main.js": "/fleques-student/static/js/runtime-main.334ed17d.js",
+    "runtime-main.js.map": "/fleques-student/static/js/runtime-main.334ed17d.js.map",
+    "static/js/2.b986d49c.chunk.js": "/fleques-student/static/js/2.b986d49c.chunk.js",
+    "static/js/2.b986d49c.chunk.js.map": "/fleques-student/static/js/2.b986d49c.chunk.js.map",
+    "index.html": "/fleques-student/index.html",
+    "precache-manifest.2a375cc8ea6e73c36efb9eb38c52b9fe.js": "/fleques-student/precache-manifest.2a375cc8ea6e73c36efb9eb38c52b9fe.js",
+    "service-worker.js": "/fleques-student/service-worker.js",
+    "static/css/main.17b74ad8.chunk.css.map": "/fleques-student/static/css/main.17b74ad8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.334ed17d.js",
+    "static/js/2.b986d49c.chunk.js",
+    "static/css/main.17b74ad8.chunk.css",
+    "static/js/main.392ffed0.chunk.js"
+  ]
+}
