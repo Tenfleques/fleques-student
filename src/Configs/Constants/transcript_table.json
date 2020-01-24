@@ -1,0 +1,25 @@
+{
+    "columns" : [
+        {
+            "field" : "id",
+            "title" : "No.",
+            "class" : "col-1"
+        },{
+            "field" : "discipline",
+            "title" : "Discipline",
+            "class" : "col"
+        },{
+            "field" : "num_hours",
+            "title" : "Number of hours",
+            "class" : "col-2"
+        },{
+            "field" : "type_of_assesment",
+            "title" : "Type of assesment",
+            "class" : "col-2"
+        },{
+            "field" : "grade",
+            "title" : "Grade",
+            "class" : "col-2"
+        }
+    ]
+}

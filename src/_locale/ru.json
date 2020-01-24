@@ -1,0 +1,18 @@
+{
+    "_appname" : {
+        "title" : "Fleques Студент",
+        "description" : "название приложения"
+    },
+    "_description": {
+        "title" : "",
+        "description" : ""
+    },
+    "_transcript_tool" : {
+        "title" : "Волшебник транскриптов",
+        "description" : ""
+    },
+    "_home_lead" : {
+        "title" : "Добро пожаловать на платформе Fleques Студент",
+        "description" : ""
+    } 
+}

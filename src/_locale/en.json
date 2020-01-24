@@ -1,0 +1,18 @@
+{
+    "_appname" : {
+        "title" : "Fleques Student",
+        "description" : "application title"
+    },
+    "_description": {
+        "title" : "",
+        "description" : ""
+    },
+    "_transcript_wizard" : {
+        "title" : "Transcript Wizard",
+        "description" : ""
+    },
+    "_home_lead" : {
+        "title" : "Welcome to Fleques Student platform",
+        "description" : "the welcome text on the home page"
+    }    
+}

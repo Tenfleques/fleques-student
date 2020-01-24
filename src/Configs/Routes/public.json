@@ -1,0 +1,9 @@
+[
+    {
+        "caption" : "_appname",
+        "link" : "/"
+    },{
+        "caption" : "_transcript_wizard",
+        "link" : "/transcript_wizard"
+    }
+]
