@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eccbf5c8222d4ccd815f865a72ce8200",
+    "revision": "d978b50d839eb12567b27977c31c139d",
     "url": "/fleques-student/index.html"
   },
   {
-    "revision": "6328cb6f8b84284f8e46",
+    "revision": "9799009d975ef5558ce3",
     "url": "/fleques-student/static/css/main.17b74ad8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fleques-student/static/js/2.b986d49c.chunk.js"
   },
   {
-    "revision": "6328cb6f8b84284f8e46",
-    "url": "/fleques-student/static/js/main.392ffed0.chunk.js"
+    "revision": "9799009d975ef5558ce3",
+    "url": "/fleques-student/static/js/main.208e8311.chunk.js"
   },
   {
     "revision": "8bf1ceb725f4db89acd6",
