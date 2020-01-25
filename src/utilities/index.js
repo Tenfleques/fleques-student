@@ -1,5 +1,7 @@
-import TextUtilities from "./text"
+import TextUtils from "./text"
+import AgentUtils from "./agent"
 
 export default {
-    TextUtilities
+    TextUtils,
+    AgentUtils
 }

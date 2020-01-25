@@ -1,9 +1,12 @@
 import React from 'react';
 import Locale from "../../_locale/"
+import Utils from "../../utilities"
 
 
 export default function Home() {
-    const user_lang = localStorage.getItem("_locale") || navigator.language || navigator.userLanguage || "ru";
+    const user_lang = Utils.AgentUtils.getAgentLocale();
+
+    console.log(user_lang)
 
     return (
         <div className="">            

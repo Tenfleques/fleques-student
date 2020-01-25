@@ -112,7 +112,7 @@ class TranscriptPage extends Component{
         return sorted;
     }
     componentDidMount(){
-        fetch('/data/translations.csv')
+        fetch('./data/translations.csv')
             .then((r) => r.text())
             .then(text  => {
                 let options = processSubjectFile(text);
