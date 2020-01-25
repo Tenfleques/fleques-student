@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fleques-student/static/css/main.17b74ad8.chunk.css",
-    "main.js": "/fleques-student/static/js/main.208e8311.chunk.js",
-    "main.js.map": "/fleques-student/static/js/main.208e8311.chunk.js.map",
+    "main.js": "/fleques-student/static/js/main.567c70e9.chunk.js",
+    "main.js.map": "/fleques-student/static/js/main.567c70e9.chunk.js.map",
     "runtime-main.js": "/fleques-student/static/js/runtime-main.334ed17d.js",
     "runtime-main.js.map": "/fleques-student/static/js/runtime-main.334ed17d.js.map",
     "static/js/2.b986d49c.chunk.js": "/fleques-student/static/js/2.b986d49c.chunk.js",
     "static/js/2.b986d49c.chunk.js.map": "/fleques-student/static/js/2.b986d49c.chunk.js.map",
     "index.html": "/fleques-student/index.html",
-    "precache-manifest.dd7d1ec297f6ba8d9d4f4d8f6c0286d2.js": "/fleques-student/precache-manifest.dd7d1ec297f6ba8d9d4f4d8f6c0286d2.js",
+    "precache-manifest.96064386527ce38dd531960f58766e45.js": "/fleques-student/precache-manifest.96064386527ce38dd531960f58766e45.js",
     "service-worker.js": "/fleques-student/service-worker.js",
     "static/css/main.17b74ad8.chunk.css.map": "/fleques-student/static/css/main.17b74ad8.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.334ed17d.js",
     "static/js/2.b986d49c.chunk.js",
     "static/css/main.17b74ad8.chunk.css",
-    "static/js/main.208e8311.chunk.js"
+    "static/js/main.567c70e9.chunk.js"
   ]
 }
